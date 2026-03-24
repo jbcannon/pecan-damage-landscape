@@ -193,5 +193,5 @@ Cannon, J.B. et al. (2025). Agroecosystem structure mediates vulnerability to in
 ## Contact
 
 Jeffery Cannon, PhD
-[jeffery.cannon@jonesctr.org](mailto: jeffery.cannon@jonesctr.org)
+[jeffery.cannon@jonesctr.org](mailto:jeffery.cannon@jonesctr.org)
 [Landscape Ecology Lab](https://lab.jonesctr.org/cannon/), Jones Center at Ichauway
