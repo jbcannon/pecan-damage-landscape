@@ -1,6 +1,6 @@
 # Data and Code Repository
 
-## Cannon et al. (2025) — Agroecosystem structure mediates vulnerability to intensifying tropical cyclones in a globally important perennial crop
+## Cannon et al. (2026) — Agroecosystem structure mediates vulnerability to intensifying tropical cyclones in a globally important perennial crop
 
 submitted to *Global Change Biology*
 
